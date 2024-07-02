@@ -3,9 +3,7 @@
         INTEGRANTES: MARTINA DAMIAN Y LUIS POZO
 
         NOMBRE DEL PROGRAMA: LISTADO_AMAZON
-
 */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
